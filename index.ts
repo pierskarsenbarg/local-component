@@ -1,1 +1,1 @@
-import {Component} from "./component";
+export {Component} from "./component";
